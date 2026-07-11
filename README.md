@@ -1,8 +1,5 @@
 # <a href="https://kalyanm45.github.io/BlogBoard-AI-Blog-Generator/">BlogBoard — Autonomous AI Article Generator</a>
 
-<p align="center"> <img src="https://img.shields.io/github/license/poojjaguptaa101/Multi-Agentic-Blog-Generation?style=ROUND" alt="License" /> <img src="https://img.shields.io/github/stars/poojjaguptaa101/Multi-Agentic-Blog-Generation?style=ROUND" alt="Stars" /> <img src="https://img.shields.io/github/forks/poojjaguptaa101/Multi-Agentic-Blog-Generation?style=ROUND" alt="Forks" /> <img src="https://img.shields.io/github/issues/poojjaguptaa101/Multi-Agentic-Blog-Generation?style=ROUND"alt="Issues" />
-</p>
-
 ## About The Project
 
 BlogBoard is an end-to-end, fully automated blogging platform. It autonomously schedules, writes, formats, and publishes deep-dive technical articles on Machine Learning and Artificial Intelligence directly to a fast, static frontend website.
