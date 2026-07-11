@@ -33,7 +33,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```bash
-     git clone https://github.com/KalyanM45/BlogBoard-AI-Blog-Generator.git
+     git clone https://github.com/poojjaguptaa101/BlogBoard-AI-Blog-Generator.git
      ```
 
 2. **Create a Virtual Environment** (Recommended)
